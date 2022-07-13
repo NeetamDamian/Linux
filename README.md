@@ -2,7 +2,7 @@
 
 ## What is Linux ?
 
-[ALL ABOUT LINUX](https://www.linux.com/what-is-linux/)
+To know more about Linux visit [ALL ABOUT LINUX](https://www.linux.com/what-is-linux/)
 
 In short, just like Windows, iOS, and Mac OS, Linux is an operating system. It is the best known and most used open source operating system. ( by open source we meand that the source code is freely available.)
 
