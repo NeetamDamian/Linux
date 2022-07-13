@@ -82,7 +82,7 @@ and then
 
 We can easily use the -p flag like
 ```
-mkdir Europe\UK
+mkdir -p Europe\UK
 ```
 The above command will create both the Europe directory and the UK directory at the same time.
 
