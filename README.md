@@ -65,7 +65,7 @@ the command above creates a new directory/folder inside the Documents directory.
 So if we run the ls command we will see the Africa directory among other files and directories that were in Documents directory.
 
 ## Flags ( or Options )
-Flags are used to modify the behaviour of a command. There is always a dash (-) or two dashes before a flag. for example the ls command can view all the elements of a particular directory. But with the -a flag i.e
+Flags are used to modify the behaviour of a command. There are always dash(-) or dashes before a flag. for example the ls command can view all the elements of a particular directory. But with the -a flag i.e
 ```
 ls -a
 ```
