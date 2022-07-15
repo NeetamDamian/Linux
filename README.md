@@ -133,7 +133,17 @@ cp /home/Damian/Documents/first.txt /home/Damian/Downloads/first.txt
 ```
 The difference between the 2 commands above is the way we wrote the file path
 There  2 ways of writing file paths Absolute and Relative path.
-Which will be discussed in the future.
+
+In Absolute path we list all the file path starting from the root directory the root directory is always specified by the first slash ( / ).
+
+> `e.g /home/Damian/continent/Africa` 
+
+The above is example of an absolute path. But suppose we are in the continent directory and want to go the Africa directory we simply do 
+
+>`cd Africa`
+
+we’ve used a relative path.
+
 
 To copy directories(folders) the cp command will not work we need to add the -r flag.
 
