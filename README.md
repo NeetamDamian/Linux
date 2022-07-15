@@ -2,7 +2,7 @@
 
 ## What is Linux ?
 
-[ALL ABOUT LINUX](https://www.linux.com/what-is-linux/)
+To know more about Linux visit [ALL ABOUT LINUX](https://www.linux.com/what-is-linux/)
 
 In short, just like Windows, iOS, and Mac OS, Linux is an operating system. It is the best known and most used open source operating system. ( by open source we meand that the source code is freely available.)
 
@@ -65,7 +65,7 @@ the command above creates a new directory/folder inside the Documents directory.
 So if we run the ls command we will see the Africa directory among other files and directories that were in Documents directory.
 
 ## Flags ( or Options )
-Flags are used to modify the behaviour of a command. There is always a dash (-) or two dashes before a flag. for example the ls command can view all the elements of a particular directory. But with the -a flag i.e
+Flags are used to modify the behaviour of a command. There are always dash(-) or dashes before a flag. for example the ls command can view all the elements of a particular directory. But with the -a flag i.e
 ```
 ls -a
 ```
@@ -82,7 +82,7 @@ and then
 
 We can easily use the -p flag like
 ```
-mkdir Europe\UK
+mkdir -p Europe\UK
 ```
 The above command will create both the Europe directory and the UK directory at the same time.
 
